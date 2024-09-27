@@ -1,4 +1,4 @@
-![collage](https://github.com/user-attachments/assets/032ffd57-4d91-43ab-a035-ae6df2224a1e)# **Smart City Applications: Ambulance Rescue with Intelligent Traffic Light System**
+**Smart City Applications: Ambulance Rescue with Intelligent Traffic Light System**
 
 In the research, the project on ambulance rescue using an intelligent traffic light system as part of smart city applications aims to provide significant innovation in emergency services and traffic management. Increasing traffic problems and ambulance delays make it difficult for emergency patients to reach hospitals on time. The unique value of this project is the development of an intelligent traffic light system that combines cloud computing, IoT, and embedded systems technologies to rescue ambulances from traffic. This system tracks the real-time location of ambulances, controls traffic lights according to ambulance passage, and optimizes traffic flow.
 
