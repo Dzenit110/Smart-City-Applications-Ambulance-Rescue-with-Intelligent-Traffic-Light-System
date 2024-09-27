@@ -99,7 +99,7 @@ This project serves a life-saving purpose by reducing the delay for ambulances a
 ## 🧰 Languages & Tools 
 
 <div style="display: inline;">
-    <img src="https://skillicons.dev/icons?i=cpp,html,css,vscode, heroku, javascript, php, arduino, mysql "style="margin-right: 10px;" />
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,vscode,heroku,javascript,php,arduino,mysql" style="margin-right: 10px;" />
     <img src="https://github.com/user-attachments/assets/2f671e98-5ab2-48f6-afbf-652af748ed8e" width="50" height="60" &nbsp; &nbsp;/>
     <img src="https://github.com/user-attachments/assets/1d95ddfa-47ad-4179-877b-35feeb152966" width="65" height="65" &nbsp; &nbsp;/>
     <img src="https://github.com/user-attachments/assets/41ba7739-e0a3-4429-b501-e24b0d584e85" width="65" height="65"  &nbsp; &nbsp;/>
