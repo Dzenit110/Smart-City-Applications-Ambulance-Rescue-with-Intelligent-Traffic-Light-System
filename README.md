@@ -99,9 +99,9 @@ This project serves a life-saving purpose by reducing the delay for ambulances a
 ## 🧰 Languages & Tools 
 
 <div style="display: inline;">
-    <img src="https://skillicons.dev/icons?i=cpp"style="margin-right: 10px;" />
-    <img src="https://github.com/user-attachments/assets/f29a2b13-cfc7-4e15-a0b6-1180dc7ba9ca" width="70" height="70"  &nbsp; &nbsp; >
-    <img src="https://github.com/user-attachments/assets/cf1d8532-3d73-4eed-9139-c02b9aa10ddb" width="65" height="65" &nbsp; &nbsp;/>
-    <img src="https://github.com/user-attachments/assets/906cc158-0e38-420f-b0b4-64fc227677e7" width="65" height="65" &nbsp; &nbsp;/>
-
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,vscode, heroku, javascript, php, arduino, mysql, "style="margin-right: 10px;" style="margin-right: 10px;" />
+    <img src="https://github.com/user-attachments/assets/2f671e98-5ab2-48f6-afbf-652af748ed8e" width="50" height="60" &nbsp; &nbsp;/>
+    <img src="https://github.com/user-attachments/assets/1d95ddfa-47ad-4179-877b-35feeb152966" width="65" height="65" &nbsp; &nbsp;/>
+    <img src="https://github.com/user-attachments/assets/41ba7739-e0a3-4429-b501-e24b0d584e85" width="65" height="65"  &nbsp; &nbsp;/>
+    <img src="https://github.com/user-attachments/assets/c53560da-cbab-4f95-89c7-f80b95beca2c" width="65" height="65"  &nbsp; &nbsp;/>
 </div>
