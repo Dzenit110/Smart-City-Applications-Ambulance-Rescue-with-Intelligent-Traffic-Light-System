@@ -34,84 +34,56 @@ This project serves a life-saving purpose by reducing the delay for ambulances a
 
 ## User Interface Examples
 
-<img width="377" alt="Screenshot_1" src="https://github.com/user-attachments/assets/c2987a54-a930-4550-b1f8-cdcbe7578157">
+<div style="text-align: center;">
+    <img width="377" alt="Screenshot_1" src="https://github.com/user-attachments/assets/c2987a54-a930-4550-b1f8-cdcbe7578157">
+    <br>
+    <strong>Figure 1: Ambulance Rescue with Smart Traffic Light System, Proposed Design</strong>
+    <br><br>
 
-<br>
+    <img width="377" alt="Screenshot_2" src="https://github.com/user-attachments/assets/15a449df-ea1f-4f7f-9bae-3f3f52c8647a">
+    <br>
+    <strong>Figure 2: Block Diagram of the Ambulance/Control Unit</strong>
+    <br><br>
 
-Figure 1 Ambulance Rescue with Smart Traffic Light System, Proposed Design
+    <img width="377" alt="Screenshot_3" src="https://github.com/user-attachments/assets/ce5adac4-327c-4799-bd4f-e24e850ccf35">
+    <br>
+    <strong>Figure 3: Traffic Light Block Diagram</strong>
+    <br><br>
 
-<br><br>
+    <img width="377" alt="ambulans" src="https://github.com/user-attachments/assets/4e3a7cb0-8a2c-4e73-bec9-a8c247d18b12">
+    <br>
+    <strong>Figure 4: All Systems Present in the Ambulance, RF 433 MHz Transmitter</strong>
+    <br><br>
 
-<img width="361" alt="Screenshot_2" src="https://github.com/user-attachments/assets/15a449df-ea1f-4f7f-9bae-3f3f52c8647a">
+    <img width="377" alt="trafik sistemi rf" src="https://github.com/user-attachments/assets/28b66160-2f30-41dd-9ba7-dc17737e1b91">
+    <br>
+    <strong>Figure 5: Traffic Light System All System, RF 433 MHz Receiver</strong>
+    <br><br>
 
-<br>
+    <img width="377" alt="trafik modeli" src="https://github.com/user-attachments/assets/d54a32c8-bc92-496c-a032-fe134fa67d22">
+    <br>
+    <strong>Figure 6: Traffic Light System (Model)</strong>
+    <br><br>
 
-Figure 2 Block Diagram of the Ambulance/Control Unit
+    <img width="377" alt="Screenshot_4gps" src="https://github.com/user-attachments/assets/c6022727-b0c0-4487-a6e1-b741395d35a4">
+    <br>
+    <strong>Figure 7: Demonstration of the Implementation of All Systems Present in the Ambulance in Real Life (RF Transmitter, GPS)</strong>
+    <br><br>
 
-<br><br>
+    <img width="377" alt="tumsistem" src="https://github.com/user-attachments/assets/31d5b136-9575-4bf7-bfd5-4de13ca4dc88">
+    <br>
+    <strong>Figure 8: Demonstration of the Implementation of the Target System (Right: System with Traffic Lights and RF Receiver) and (Left: Ambulance System, RF Transmitter)</strong>
+    <br><br>
 
-<img width="316" alt="Screenshot_3" src="https://github.com/user-attachments/assets/ce5adac4-327c-4799-bd4f-e24e850ccf35">
+    <img width="377" alt="Remotexy" src="https://github.com/user-attachments/assets/0e4050e5-429c-4f17-87ae-1a0460b1da0f">
+    <br>
+    <strong>Figure 9: Display of the Alternative Option, Instead of Button, Using the Remotexy Application, Activation of RF Transmitter</strong>
+    <br><br>
 
-<br>
-
-Figure 3 Traffic Light Block Diagram
-
-<br><br>
-
-<img width="378" alt="ambulans" src="https://github.com/user-attachments/assets/4e3a7cb0-8a2c-4e73-bec9-a8c247d18b12">
-
-<br>
-
-Figure 4 All Systems Present in the Ambulance, RF 433 MHz Transmitter
-
-<br><br>
-
-<img width="360" alt="trafik sistemi rf" src="https://github.com/user-attachments/assets/28b66160-2f30-41dd-9ba7-dc17737e1b91">
-
-
-<br>
-
-Figure 5 Traffic Light System All System, RF 433 MHz Receiver
-
-<br><br>
-
-<img width="348" alt="trafik modeli" src="https://github.com/user-attachments/assets/d54a32c8-bc92-496c-a032-fe134fa67d22">
-
-<br>
-
-Figure 6 Traffic Light System (Model)
-
-<br><br>
-
-<img width="268" alt="Screenshot_4gps" src="https://github.com/user-attachments/assets/c6022727-b0c0-4487-a6e1-b741395d35a4">
-
-<br>
-
-Figure 7 Demonstration of the Implementation of All Systems Present in the Ambulance in Real Life (RF Transmitter, GPS)
-
-<br><br>
-
-<img width="835" alt="tumsistem" src="https://github.com/user-attachments/assets/31d5b136-9575-4bf7-bfd5-4de13ca4dc88">
-
-<br>
-
-Figure 8 Demonstration of the Implementation of the Target System (Right: System with Traffic Lights and RF Receiver) and (Left: Ambulance System, RF Transmitter)
-
-<br><br>
-
-<img width="198" alt="Remotexy" src="https://github.com/user-attachments/assets/0e4050e5-429c-4f17-87ae-1a0460b1da0f">
-
-
-<br>
-
-Figure 9 Display of the Alternative Option, Instead of Button, Using the Remotexy Application, Activation of RF Transmitter
-
-<br><br>
-
-![collage](https://github.com/user-attachments/assets/6d9e562d-c797-4b04-894a-d695ffc17487)
-
-<br>
-Figure 10 Display on Web Google Maps API & Cloud (MySQL, GPS Location)
+    <img width="377" alt="collage" src="https://github.com/user-attachments/assets/6d9e562d-c797-4b04-894a-d695ffc17487">
+    <br>
+    <strong>Figure 10: Display on Web Google Maps API & Cloud (MySQL, GPS Location)</strong>
+</div>
 
 <br><br>
 
