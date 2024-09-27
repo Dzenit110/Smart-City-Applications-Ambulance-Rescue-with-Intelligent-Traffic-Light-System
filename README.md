@@ -111,7 +111,6 @@ Figure 9 Display of the Alternative Option, Instead of Button, Using the Remotex
 ![collage](https://github.com/user-attachments/assets/6d9e562d-c797-4b04-894a-d695ffc17487)
 
 <br>
-
 Figure 10 Display on Web Google Maps API & Cloud (MySQL, GPS Location)
 
 <br><br>
