@@ -91,7 +91,7 @@ This project serves a life-saving purpose by reducing the delay for ambulances a
 </div>
 <div style="text-align: center;">
     <img width="377" alt="collage" src="https://github.com/user-attachments/assets/6d9e562d-c797-4b04-894a-d695ffc17487">
-    <br><br>
+    <br>
     <strong>Figure 10: Display on Web Google Maps API & Cloud (MySQL, GPS Location)</strong>
 </div>
 
