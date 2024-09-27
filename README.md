@@ -67,7 +67,7 @@ This project serves a life-saving purpose by reducing the delay for ambulances a
 </div>
 <div style="text-align: center;">
     <img width="377" alt="trafik modeli" src="https://github.com/user-attachments/assets/d54a32c8-bc92-496c-a032-fe134fa67d22">
-    <br><br>
+    <br>
     <strong>Figure 6: Traffic Light System (Model)</strong>
     <br><br>
 </div>
