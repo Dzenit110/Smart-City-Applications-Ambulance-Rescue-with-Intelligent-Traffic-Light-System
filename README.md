@@ -35,7 +35,6 @@ This project serves a life-saving purpose by reducing the delay for ambulances a
 ## User Interface Examples
 
 <div style="text-align: center;">
-
     <img width="377" alt="Screenshot_1" src="https://github.com/user-attachments/assets/c2987a54-a930-4550-b1f8-cdcbe7578157">
     <br><br>
     <strong>Figure 1: Ambulance Rescue with Smart Traffic Light System, Proposed Design</strong>
