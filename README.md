@@ -2,7 +2,7 @@
 
 The project on ambulance rescue using an intelligent traffic light system as part of smart city applications aims to provide significant innovation in emergency services and traffic management. Increasing traffic problems and ambulance delays make it difficult for emergency patients to reach hospitals on time. The unique value of this project is the development of an intelligent traffic light system that combines cloud computing, IoT, and embedded systems technologies to rescue ambulances from traffic. This system tracks the real-time location of ambulances, controls traffic lights according to ambulance passage, and optimizes traffic flow.
 
-The hardware used in the project includes Arduino Uno, RF sensor modules, GPS modules, and other components. The software is developed using Arduino IDE, PHP, and a mobile application. The project also includes a web-based monitoring interface..
+The hardware used in the project includes Arduino Uno, RF sensor modules, GPS modules, and other components. The software is developed using Arduino IDE, PHP, and a mobile application. The project also includes a web-based monitoring interface.
 
 Project management is conducted in a disciplined manner, ensuring effective communication and collaboration between hardware and software development. The wide-reaching impacts of the project are diverse, as it not only contributes to emergency services but also aims to make city traffic more efficient by improving traffic flow.
 
